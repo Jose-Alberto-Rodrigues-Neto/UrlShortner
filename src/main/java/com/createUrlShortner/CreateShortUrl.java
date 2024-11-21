@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-public class Main implements RequestHandler<Map<String, Object>, Map<String, String>> {
+public class CreateShortUrl implements RequestHandler<Map<String, Object>, Map<String, String>> {
 
     private final ObjectMapper objectMapper = new ObjectMapper();
 
