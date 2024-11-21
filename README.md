@@ -24,7 +24,7 @@ This project is a **simple URL shortener application** built using **Java** and 
 ### Prerequisites
 
 - AWS account with access to S3, Lambda, and API Gateway.
-- Java Development Kit (JDK 11 or later).
+- Java Development Kit (JDK 17).
 - AWS CLI configured with appropriate permissions.
 
 ### Installation
